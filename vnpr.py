@@ -49,4 +49,3 @@ def extract_num(img_name):
     cv2.destroyAllWindows()
 
 extract_num(r"C:\Users\rashmi\Downloads\WhatsApp Image 2023-08-29 at 3.20.05 PM.jpeg")
-
